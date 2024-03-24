@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release version="2.2.53" revision="10bolt1" upstream-version="2.2.53-10"
+    <release version="2.2.53" revision="10bolt2" upstream-version="2.2.53-10"
         maintainer="Tobias Koch" email="tobias.koch@gmail.com"
         date="2021-02-18 22:38:24+03:00">
         <changeset>
