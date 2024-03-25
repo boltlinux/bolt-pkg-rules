@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release version="2.7.6" revision="7bolt1" upstream-version="2.7.6-7"
+    <release version="2.7.6" revision="7bolt2" upstream-version="2.7.6-7"
         maintainer="Tobias Koch" email="tobias.koch@gmail.com"
         date="2021-02-21 22:42:28+03:00">
         <changeset>
